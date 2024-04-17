@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 🏆 I won **2023 CPE Challenge Java Champion**
+- 🏆 I won **2023 CPE Challenge Java Programming Competition**
 
 - 📫 How to reach me **jscadenas12@gmail.com**
 
