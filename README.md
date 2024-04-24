@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Juls</h1>
 <h3 align="left">I am Julian Sebastian Cadenas, but you can call me Juls. I am a 3rd-year Computer Engineering student at FEU Institute of Technology. I enjoy software development and am currently interested in studying computer vision.</h3>
 
-- 🔭 I’m currently working on [a GWA Calculator](https://github.com/julsCadenas/gwa-calculator)
+- 🔭 I’m currently working on [a GWA Calculator](https://julscadenas.github.io/gwa-calculator/)
 
 - 🌱 I’m currently learning **Django**
 
