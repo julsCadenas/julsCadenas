@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [recreating LRT-2's ticket machine UI](https://github.com/julsCadenas/lrtProject)
 
-- 🌱 I’m currently learning **Bootstrap CSS**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 🏆 I won **2023 CPE Challenge Java Programming Competition**
 
