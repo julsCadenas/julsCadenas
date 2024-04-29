@@ -17,12 +17,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/julian-cadenas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julian-cadenas/" height="30" width="40" /></a>
 </p>
 
-<style>
-  /* Targeting the last <p> tag with alt="julscadenas" */
-  p[alt="julscadenas"] {
-    background-color: #333; /* Change the background color to a dark color */
-    color: #fff; /* Change the text color to white */
-    padding: 10px; /* Add padding for better visibility */
-  }
-</style>
 
