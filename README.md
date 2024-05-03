@@ -9,7 +9,7 @@
 
 - 🏆 Achievement **FEU Tech 2023 CPE Challenge Java Champion**
 
-- 📫 How to reach me with **jscadenas12@gmail.com**
+- 📫 You can reach me with **jscadenas12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
