@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 🌐 You can view my website at [julscadenas.vercel.app](julscadenas.vercel.app)
+- 🌐 You can view my website [here](https://julscadenas.vercel.app/)
 
 - 🏆 Achievement **FEU Tech 2023 CPE Challenge Java Champion**
 
