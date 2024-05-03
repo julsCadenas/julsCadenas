@@ -1,13 +1,11 @@
 <h1 align="left">Hi 👋, I'm Juls</h1>
 <h3 align="left">I am Julian Sebastian Cadenas, but you can call me Juls. I am a 3rd-year Computer Engineering student at FEU Institute of Technology. I enjoy software development and I am currently interested in studying computer vision.</h3>
 
-- 🔭 I’m currently working on [a client's portfolio website](https://github.com/julsCadenas/ave-website)
-
 - 🌱 I’m currently learning **React.js**
 
 - 🌐 You can view my website [here](https://julscadenas.vercel.app/)
 
-- 🏆 Achievement **FEU Tech 2023 CPE Challenge Java Champion**
+- 🏆 I won **FEU Tech 2023 CPE Challenge Java Champion**
 
 - 📫 You can reach me with **jscadenas12@gmail.com**
 
