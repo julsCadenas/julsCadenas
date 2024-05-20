@@ -5,7 +5,7 @@
 
 - 🌐 You can view my website [here](https://julscadenas.vercel.app/)
 
-- 🏆 I won **FEU Tech 2023 CPE Challenge Java Programming Competition**
+- 🏆 I won **FEU Tech 2023 CPE Challenge Java Competition**
 
 - 📫 You can reach me with **jscadenas12@gmail.com**
 
