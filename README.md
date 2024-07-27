@@ -17,4 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julscadenas&show_icons=true&locale=en&layout=compact" alt="julscadenas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julscadenas&show_icons=true&locale=en" alt="julscadenas" /></p>
