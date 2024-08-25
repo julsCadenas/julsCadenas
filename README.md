@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 🌐 You can view my website [here](https://julscadenas.vercel.app/)
+- 🌐 You can view my website [here](https://jscadenas.vercel.app/)
 
 - 📫 You can reach me with **jscadenas12@gmail.com**
 
