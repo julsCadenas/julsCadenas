@@ -20,5 +20,3 @@
 </div>
 
 [![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=julsCadenas&show_icons=true&theme=dracula)](https://github.com/julsCadenas/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=julsCadenas&theme=dark)](https://git.io/streak-stats)
