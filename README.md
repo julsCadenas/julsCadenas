@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![Languages & Tools](https://skillicons.dev/icons?i=python,java,cpp,javascript,php,bash,html,css,react,tailwind,nodejs,express,opencv,tensorflow,sql,sqlite,mongodb,firebase,git,linux,aws)](https://skillicons.dev)
+[![Languages & Tools](https://skillicons.dev/icons?i=python,java,cpp,javascript,php,bash,html,css,react,tailwind,nodejs,express,opencv,tensorflow,sql,sqlite,mongodb,firebase,git,linux,aws,postman)](https://skillicons.dev)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julsCadenas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&hide=css,html" height="150" alt="languages graph"  />
