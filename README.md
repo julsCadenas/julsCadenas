@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Juls</h1>
 <h3 align="left">I am Julian Sebastian Cadenas. I am a 4th-year Computer Engineering student at FEU Institute of Technology. I enjoy software development and I am currently interested in studying machine learning.</h3>
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently strengthening my foundations.
 
 - 🌐 You can view my website [here](https://jscadenas.vercel.app/)
 
