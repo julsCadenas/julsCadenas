@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Juls</h1>
-<h3 align="left">I am Julian Sebastian Cadenas. I am a 4th-year Computer Engineering student at FEU Institute of Technology. I enjoy software development and I am currently fine tuning an ML Model.</h3>
+<h3 align="left">I am Julian Sebastian Cadenas. I am a 4th-year Computer Engineering student at FEU Institute of Technology. I enjoy software development and I am currently fine tuning a ML Model.</h3>
 
 - 🌱 I’m currently studying AI/ML.
 
