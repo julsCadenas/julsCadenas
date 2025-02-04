@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,php,bash,html,css,react,next,tailwind,flask,nodejs,express,opencv,tensorflow,pytorch,scikit-learn,mysql,sqlite,mongodb,firebase,git,linux,aws,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,php,bash,html,css,react,next,tailwind,flask,nodejs,express,opencv,tensorflow,mysql,sqlite,mongodb,firebase,git,linux,aws,postman,figma" />
 </p>
 
 <div align="left">
