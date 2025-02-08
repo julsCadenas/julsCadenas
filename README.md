@@ -17,7 +17,7 @@
 
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,git,linux,postman,firebase" />
+  <img src="https://skillicons.dev/icons?i=jupyter,bash,git,linux,postman,firebase" />
 </p>
 
 <br>
