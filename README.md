@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=bash,git,linux,postman,firebase" />
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=julsCadenas&count_private=true&show_icons=true&theme=dracula" alt="Julian's GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julsCadenas&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="Top Languages"/>
 </div>
