@@ -7,7 +7,7 @@
 
 <h3 align="left">Currently Studying:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,opencv" />
 </p>
 
 <h3 align="left">Software Development:</h3>
