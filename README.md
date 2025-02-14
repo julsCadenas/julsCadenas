@@ -28,7 +28,6 @@
 </p>
 
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=julsCadenas)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=julsCadenas&count_private=true&show_icons=true&theme=dracula" alt="Julian's GitHub Stats" height="150"/>
