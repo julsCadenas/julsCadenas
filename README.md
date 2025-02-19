@@ -33,4 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=julsCadenas&count_private=true&show_icons=true&theme=dracula" alt="Julian's GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julsCadenas&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide=css,html" height="150" alt="Top Languages"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julscadenas&label=Profile%20views&color=0e75b6&style=flat" alt="julscadenas" /> </p>
