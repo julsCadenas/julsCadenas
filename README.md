@@ -19,7 +19,7 @@
 
 <h3 align="left">Software Development:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,next,tailwind,nodejs,express,flask,mongodb,mysql,sqlite,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,next,tailwind,nodejs,express,flask,mongodb,mysql,sqlite,cpp,java" />
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
