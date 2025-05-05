@@ -14,12 +14,12 @@
 
 <h3 align="left">Currently Studying:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
 </p>
 
 <h3 align="left">Software Development:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,next,tailwind,nodejs,express,flask,prisma,mongodb,mysql,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,next,tailwind,nodejs,express,flask,opencv,prisma,mongodb,mysql,postgresql,sqlite" />
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
