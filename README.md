@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="left">Currently Studying:</h3>
+<h3 align="left">Currently Studying (AI/ML):</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
 </p>
