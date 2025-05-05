@@ -14,7 +14,7 @@
 
 <h3 align="left">Currently Studying (AI/ML):</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sklearn,pytorch,tensorflow,huggingface,pandas,matplotlib,numpy,seaborn" />
 </p>
 
 <h3 align="left">Software Development:</h3>
